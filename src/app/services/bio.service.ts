@@ -7,7 +7,7 @@ export class BioService {
 
   constructor() { }
 
-  getHobby() {
+  getFaiq() {
     return [
       {id:0, hobby:"Berlari", ket:"lari 1 jam tiap hari"},
       {id:1, hobby:"Senam", ket:"senam tiap sore"},
